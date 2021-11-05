@@ -7,7 +7,7 @@ A simple script of padim provides an easy way to achieve anomaly detection
 ●torch=1.4.0  
 ●opencv-python=4.2.0.34  
 
-## Introduction of the mfcc_analysis.py:
+## Introduction of the run_padim.py:
 
 1. Take efficientnet for instance, the result of feature maps are shown as below:  
   
